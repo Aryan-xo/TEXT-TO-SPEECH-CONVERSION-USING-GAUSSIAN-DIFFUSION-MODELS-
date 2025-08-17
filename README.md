@@ -158,9 +158,6 @@ The loss curves, synthesized mel-spectrograms, and audios are shown.
     <img src="./preprocessed_data/VCTK/spker_embed_tsne.png" width="40%">
 </p>
 
-# Citation
-
-Please cite this repository by the "[Cite this repository](https://github.blog/2021-08-19-enhanced-support-citations-github/)" of **About** section (top right of the main page).
 
 # References
 - [keonlee9420's DiffSinger](https://github.com/keonlee9420/DiffSinger)
